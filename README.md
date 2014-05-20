@@ -1,3 +1,3 @@
 uet-theme
 =========
-Đây là repo theme thử nghiệm hệ thống edX
+Đây là repo theme edX thử nghiệm
