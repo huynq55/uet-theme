@@ -10,18 +10,18 @@
 //-----------------
 
 //Main Color Variables
-$main-color: #0a4a67;
+$main-color: #126f9a;
 $dark-color: #1d9dd9; //Link Color
 $light-color: #f4e00c; //Selected Header BG Color, ie. calendar        ***Custom, not from palette***
 $bg-color: #f7fe81; //Selected Content BG Color, ie. calendar          ***Custom, not from palette***
 
 //Main BG Color Variables
-$main-bg: #17178f;
+$main-bg: #0d8ede;
 $main-bg-60: lighten($main-bg, 18.5%); //Main Border/HR Color
 $main-bg-25: lighten($main-bg, 25%); 
 
 //Secondary Color Variables
-$secondary: #b5a4b7;
+$secondary: #92caf4;
 $secondary-50: lighten($secondary, 9%);
 $secondary-25: lighten($secondary, 20%); //Important Heading BG Color 
 
@@ -185,7 +185,7 @@ $footer_margin: ($baseline/4) 0;
 //-----------------
 //  CSS BG Images
 //-----------------
-$homepage-bg-image: url('../themes/uet-theme/images/sunrise.jpg');
+$homepage-bg-image: url('../themes/uet-theme/images/circuit.jpg');
 
 $login-banner-image: none;
 $register-banner-image: none;
